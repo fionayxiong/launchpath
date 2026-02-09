@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LaunchPath logo">
+  <defs>
+    <linearGradient id="lpGrad" x1="0" y1="512" x2="512" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="256" cy="256" r="232" fill="url(#lpGrad)"/>
+  <circle cx="256" cy="256" r="232" fill="none" stroke="#e5e7eb" stroke-opacity="0.14" stroke-width="8"/>
+
+  <path d="M130 328 C 176 222, 240 204, 310 174 C 350 157, 382 134, 404 104"
+        fill="none" stroke="#e5e7eb" stroke-opacity="0.22" stroke-width="18" stroke-linecap="round"/>
+
+  <path d="M256 118
+           C 222 156, 205 204, 205 256
+           C 205 313, 236 360, 256 382
+           C 276 360, 307 313, 307 256
+           C 307 204, 290 156, 256 118 Z"
+        fill="#ffffff"/>
+
+  <circle cx="256" cy="228" r="26" fill="#111827" fill-opacity="0.9"/>
+  <circle cx="256" cy="228" r="26" fill="none" stroke="#e5e7eb" stroke-opacity="0.45" stroke-width="6"/>
+
+  <path d="M205 290 L155 324 L205 336 Z" fill="#ffffff" fill-opacity="0.92"/>
+  <path d="M307 290 L357 324 L307 336 Z" fill="#ffffff" fill-opacity="0.92"/>
+
+  <path d="M256 410
+           C 238 392, 228 372, 230 352
+           C 240 366, 248 370, 256 370
+           C 264 370, 272 366, 282 352
+           C 284 372, 274 392, 256 410 Z"
+        fill="#e5e7eb" fill-opacity="0.9"/>
+</svg>
